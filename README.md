@@ -14,12 +14,13 @@ This app allows store owners to apply a percentage discount to the most expensiv
 
 1. **Clone this repository:**
   git clone https://github.com/DanielRachamim1234/discount-app.git
+
   cd discount-app
 
-2. **Install dependencies:**
+3. **Install dependencies:**
   npm install
 
-3. **Start the Wix development environment:**
+4. **Start the Wix development environment:**
    npm run dev
 
 Then follow the terminal instructions to open your dashboard pages or plugin.
