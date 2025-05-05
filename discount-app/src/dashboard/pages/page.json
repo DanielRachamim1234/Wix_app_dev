@@ -1,0 +1,8 @@
+{
+  "$schema": "https://dev.wix.com/wix-cli/schemas/dashboard-page.json",
+  "id": "4a44c4d2-ec30-44df-b58c-479217a5b540",
+  "title": "discount_app",
+  "sidebar": {
+    "visible": false
+  }
+}

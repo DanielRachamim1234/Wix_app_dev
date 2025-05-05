@@ -1,0 +1,12 @@
+{
+  "extends": "@wix/cli-app/tsconfig.app.json",
+  "compilerOptions": {
+    "rootDir": ".",
+    "types": ["react"],
+    "baseUrl": ".",
+    "paths": {
+      "backend/*": ["backend/*"]
+    }
+  },
+  "include": ["src", "backend"]
+}
