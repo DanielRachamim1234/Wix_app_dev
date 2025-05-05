@@ -13,6 +13,7 @@ This app allows store owners to apply a percentage discount to the most expensiv
 ## Getting Started
 
 1. **Clone this repository:**
+
   git clone https://github.com/DanielRachamim1234/discount-app.git
 
   cd discount-app
@@ -25,18 +26,6 @@ This app allows store owners to apply a percentage discount to the most expensiv
 
 Then follow the terminal instructions to open your dashboard pages or plugin.
 
-## Folder Structure
-
-discount-app/
-├── backend/              # Backend logic (secure)
-├── src/                  # Frontend: dashboard pages and plugin
-│   └── dashboard/
-│       ├── pages/
-│       └── plugins/
-├── wix.config.json       # App definition
-├── package.json          # Dependencies and scripts
-├── tsconfig.json         # TypeScript config
-└── README.md
 
 ## Why `node_modules` is excluded
 
