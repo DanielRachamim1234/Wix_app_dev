@@ -14,9 +14,9 @@ This app allows store owners to apply a percentage discount to the most expensiv
 
 1. **Clone this repository:**
 
-  git clone https://github.com/DanielRachamim1234/discount-app.git
+      git clone https://github.com/DanielRachamim1234/discount-app.git
 
-  cd discount-app
+      cd discount-app
 
 3. **Install dependencies:**
   npm install
