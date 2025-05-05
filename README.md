@@ -14,7 +14,7 @@ This app allows store owners to apply a percentage discount to the most expensiv
 
 1. **Clone this repository:**
 
-      git clone https://github.com/DanielRachamim1234/discount-app.git
+      git clone https://github.com/DanielRachamim1234/wix_app_dev.git
 
       cd discount-app
 
